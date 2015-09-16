@@ -1,0 +1,4 @@
+E:\privat\icaller\csvReader\bin\Release\csvReader.dll
+E:\privat\icaller\csvReader\obj\Release\ResolveAssemblyReference.cache
+E:\privat\icaller\csvReader\obj\Release\csvReader.dll
+E:\privat\icaller\csvReader\bin\Release\icaller.pdb

@@ -1,0 +1,19 @@
+E:\privat\icaller\icaller\bin\Debug\icaller.exe.config
+E:\privat\icaller\icaller\bin\Debug\sourcedata\Terminplan 12-13RR.csv
+E:\privat\icaller\icaller\bin\Debug\icaller.exe.manifest
+E:\privat\icaller\icaller\bin\Debug\icaller.application
+E:\privat\icaller\icaller\bin\Debug\icaller.exe
+E:\privat\icaller\icaller\bin\Debug\icaller.pdb
+E:\privat\icaller\icaller\bin\Debug\csvReader.dll
+E:\privat\icaller\icaller\bin\Debug\iCalMaker.dll
+E:\privat\icaller\icaller\obj\Debug\icaller.exe.manifest
+E:\privat\icaller\icaller\obj\Debug\icaller.application
+E:\privat\icaller\icaller\obj\Debug\icaller.exe
+E:\privat\icaller\icaller\obj\Debug\icaller.csprojResolveAssemblyReference.cache
+E:\privat\icaller\icaller\obj\Debug\icaller.pdb
+E:\privat\icaller\icaller\bin\Debug\csvReader.pdb
+E:\privat\icaller\icaller\bin\Debug\iCalMaker.pdb
+E:\privat\gitRepos\Flake.icaller\icaller\bin\Debug\icaller.exe.config
+E:\privat\gitRepos\Flake.icaller\icaller\obj\Debug\icaller.exe
+E:\privat\gitRepos\Flake.icaller\icaller\obj\Debug\icaller.pdb
+E:\privat\gitRepos\Flake.icaller\icaller\bin\Debug\Flake.icaller.exe.config

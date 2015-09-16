@@ -1,0 +1,4 @@
+E:\privat\icaller\iCalMaker\bin\Release\iCalMaker.dll
+E:\privat\icaller\iCalMaker\obj\Release\ResolveAssemblyReference.cache
+E:\privat\icaller\iCalMaker\obj\Release\iCalMaker.dll
+E:\privat\icaller\iCalMaker\bin\Release\icaller.pdb

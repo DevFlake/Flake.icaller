@@ -1,0 +1,12 @@
+E:\privat\icaller\icaller\bin\Release\icaller.exe.config
+E:\privat\icaller\icaller\bin\Release\sourcedata\Terminplan 12-13RR.csv
+E:\privat\icaller\icaller\bin\Release\icaller.exe
+E:\privat\icaller\icaller\bin\Release\csvReader.dll
+E:\privat\icaller\icaller\bin\Release\iCalMaker.dll
+E:\privat\icaller\icaller\obj\Release\ResolveAssemblyReference.cache
+E:\privat\icaller\icaller\obj\Release\icaller.exe
+E:\privat\icaller\icaller\bin\Release\icaller.exe.manifest
+E:\privat\icaller\icaller\bin\Release\icaller.application
+E:\privat\icaller\icaller\obj\Release\icaller.exe.manifest
+E:\privat\icaller\icaller\obj\Release\icaller.application
+E:\privat\icaller\icaller\bin\Release\icaller.pdb

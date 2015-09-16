@@ -1,0 +1,11 @@
+E:\privat\icaller\icaller\bin\Debug\sourcedata\Terminplan 12-13RR.csv
+E:\privat\icaller\icaller\bin\Debug\icaller.exe
+E:\privat\icaller\icaller\bin\Debug\icaller.pdb
+E:\privat\icaller\icaller\bin\Debug\csvReader.dll
+E:\privat\icaller\icaller\bin\Debug\iCalMaker.dll
+E:\privat\icaller\icaller\bin\Debug\csvReader.pdb
+E:\privat\icaller\icaller\bin\Debug\iCalMaker.pdb
+E:\privat\icaller\icaller\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\privat\icaller\icaller\obj\x86\Debug\icaller.exe
+E:\privat\icaller\icaller\obj\x86\Debug\icaller.pdb
+E:\privat\icaller\icaller\bin\Debug\icaller.exe.config

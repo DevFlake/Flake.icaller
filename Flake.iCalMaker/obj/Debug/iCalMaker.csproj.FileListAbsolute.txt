@@ -1,0 +1,4 @@
+E:\privat\icaller\iCalMaker\bin\Debug\iCalMaker.dll
+E:\privat\icaller\iCalMaker\obj\Debug\iCalMaker.dll
+E:\privat\icaller\iCalMaker\bin\Debug\iCalMaker.pdb
+E:\privat\icaller\iCalMaker\obj\Debug\iCalMaker.pdb

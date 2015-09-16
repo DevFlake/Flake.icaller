@@ -1,0 +1,9 @@
+E:\privat\gitRepos\Flake.icaller\iCalMaker\bin\Debug\Flake.iCalMaker.dll
+E:\privat\gitRepos\Flake.icaller\iCalMaker\bin\Debug\Flake.iCalMaker.pdb
+E:\privat\gitRepos\Flake.icaller\iCalMaker\obj\Debug\Flake.iCalMaker.dll
+E:\privat\gitRepos\Flake.icaller\iCalMaker\obj\Debug\Flake.iCalMaker.pdb
+E:\privat\gitRepos\Flake.icallersource\Flake.iCalMaker\bin\Debug\Flake.iCalMaker.dll
+E:\privat\gitRepos\Flake.icallersource\Flake.iCalMaker\bin\Debug\Flake.iCalMaker.pdb
+E:\privat\gitRepos\Flake.icallersource\Flake.iCalMaker\obj\Debug\Flake.iCalMaker.csprojResolveAssemblyReference.cache
+E:\privat\gitRepos\Flake.icallersource\Flake.iCalMaker\obj\Debug\Flake.iCalMaker.dll
+E:\privat\gitRepos\Flake.icallersource\Flake.iCalMaker\obj\Debug\Flake.iCalMaker.pdb

@@ -1,0 +1,4 @@
+E:\privat\icaller\csvReader\bin\Debug\csvReader.dll
+E:\privat\icaller\csvReader\obj\Debug\csvReader.dll
+E:\privat\icaller\csvReader\bin\Debug\csvReader.pdb
+E:\privat\icaller\csvReader\obj\Debug\csvReader.pdb

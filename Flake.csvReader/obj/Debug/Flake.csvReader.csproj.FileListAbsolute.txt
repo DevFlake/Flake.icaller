@@ -1,0 +1,9 @@
+E:\privat\gitRepos\Flake.icaller\csvReader\bin\Debug\Flake.csvReader.dll
+E:\privat\gitRepos\Flake.icaller\csvReader\bin\Debug\Flake.csvReader.pdb
+E:\privat\gitRepos\Flake.icaller\csvReader\obj\Debug\Flake.csvReader.dll
+E:\privat\gitRepos\Flake.icaller\csvReader\obj\Debug\Flake.csvReader.pdb
+E:\privat\gitRepos\Flake.icallersource\Flake.csvReader\bin\Debug\Flake.csvReader.dll
+E:\privat\gitRepos\Flake.icallersource\Flake.csvReader\bin\Debug\Flake.csvReader.pdb
+E:\privat\gitRepos\Flake.icallersource\Flake.csvReader\obj\Debug\Flake.csvReader.csprojResolveAssemblyReference.cache
+E:\privat\gitRepos\Flake.icallersource\Flake.csvReader\obj\Debug\Flake.csvReader.dll
+E:\privat\gitRepos\Flake.icallersource\Flake.csvReader\obj\Debug\Flake.csvReader.pdb
